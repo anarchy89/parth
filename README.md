@@ -12,7 +12,8 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG){:height="50%" width="50%"}
+<!--![alt text](https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG){:height="50%" width="50%"}-->
+<img src="https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG" width="50%" height="50%">
 
 <!-- Add your details -->
 
