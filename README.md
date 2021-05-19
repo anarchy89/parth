@@ -12,8 +12,9 @@
 ### ABOUT
 <!-- Add link to your picture -->
 
-<!--![alt text](https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG){:height="50%" width="50%"}-->
-<img src="https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG" width="50%" height="50%">
+![alt text](https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG){:height="25%" width="25%"}
+<!--<img src="https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG" width="50%" height="50%">-->
+<!--![alt text](https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG){:height="25%" width="25%"}-->
 
 <!-- Add your details -->
 
@@ -45,8 +46,8 @@ Working on various analytics based cases that facilitates clients for next-gener
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+##### Australian National University
+Bachelor of Finance, 2010-2012
 
 <!-- EDUCATION Section Ends -->
 
