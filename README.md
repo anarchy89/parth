@@ -3,20 +3,20 @@
 
 <!-- Add your details -->
 ✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
+&nbsp;&nbsp; 📲 +65-xxxxxxxx
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/parthrashiwala/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://xxxxxxxx.com/)
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/profile.jpg)
+![alt text](https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG)
 
 <!-- Add your details -->
 
-I am __Kumar Vishwesh__, a seasoned data scientist with ~7 years of progressive experience in artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
+I am __Parth__, a data scientist with ~2 years of progressive experience in data engineering and artificial intelligence. I have contributed as an AI product developer (R&D unit) and been AI consultant for top-notch clients in their AI journey. I am involved in comprehensive development, design & analysis of AI algorithms to build analytical solutions, while facilitating and leading data science teams.
 
 
 <!-- Add link to the sections -->
@@ -35,7 +35,7 @@ SENIOR ANALYST<br>
 June-2019 to Present: 1 year 10 Months
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+UNIT: xxx GAMMA
 
 Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
 
