@@ -14,7 +14,7 @@
 
 <!--<img src="https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG" width="50%" height="50%">-->
 <!--![alt text](https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG){:height="25%" width="25%"}-->
-<img src="https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG" width=25% height=25%>
+<img src="https://raw.githubusercontent.com/anarchy89/parth/main/images/IMG_1166.JPG" width=5% height=5%>
 
 <!-- Add your details -->
 
